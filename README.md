@@ -4,10 +4,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/crsandeep/simple-react-full-stack
+git clone https://github.com/perzequiel/Lakers_Events
 
 # Go inside the directory
-cd simple-react-full-stack
+cd Lakers_Events
 
 # Install dependencies
 npm install
